@@ -92,7 +92,7 @@ npm install
 
 ```env
 PORT=3001
-JWT_SECRET=mednote-ai-secret-key-2024
+JWT_SECRET=REDACTED
 OPENAI_API_KEY=sk-your-key-here
 ```
 
